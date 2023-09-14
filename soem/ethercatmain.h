@@ -24,7 +24,7 @@ extern "C"
 /** max. number of slaves in array */
 #define EC_MAXSLAVE       200
 /** max. number of groups */
-#define EC_MAXGROUP       2
+#define EC_MAXGROUP       8
 /** max. number of IO segments per group */
 #define EC_MAXIOSEGMENTS  64
 /** max. mailbox size */
